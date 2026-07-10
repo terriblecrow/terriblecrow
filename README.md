@@ -1,6 +1,6 @@
 # Terrible Crow 🐦‍⬛
 
-**A small game studio.** We build strategy games on top of cellular automata — and then demake them onto hardware that has no business running them.
+**A small game studio.** I build strategy games on top of cellular automata — and then demake them onto hardware that has no business running them.
 
 🌐 [terriblecrow.com](https://terriblecrow.com/) · ✉️ [contact@terriblecrow.com](mailto:contact@terriblecrow.com) · 🎮 [itch.io](https://terriblecrow.itch.io)
 
